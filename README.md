@@ -2,7 +2,7 @@
 
 This is a repository listing all of my Game Boy game circuit board variants.
 
-## SNES Board Links
+## Game Boy Board Links
 
 | **Board Name**       | **Board Number**   | **Max ROM Size**       | **Max RAM Size**  | **Multicart Support?** | **Memory Family Used**          |
 |----------------------|--------------------|------------------------|-------------------|------------------------|---------------------------------|
