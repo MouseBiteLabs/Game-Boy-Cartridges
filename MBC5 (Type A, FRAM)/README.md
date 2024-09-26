@@ -17,6 +17,10 @@ You can use the zipped folder at any board fabricator you like. You may also buy
 
 **PLEASE NOTE: I have not ordered these from PCBWay, so I cannot attest to their quality or performance. I have put the order details in as I believe they should be, but you need to review all parameters before ordering. Order at your own risk.**
 
+I have also uploaded this board to OSH Park. You must order it in 0.8mm thickness.
+
+https://oshpark.com/shared_projects/Cjt0YNre
+
 ## Bill of Materials (BOM)
 
 | Reference | Value/Part Number | Package | Description      | Source                                           |
