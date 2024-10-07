@@ -1,0 +1,1 @@
+MBC1 Type A SRAM
