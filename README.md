@@ -11,12 +11,12 @@ This is a repository listing all of my Game Boy game circuit board variants.
 | MBC5 (Type B)        | GB-4AV8S-01B       | 4 MB                   | 128 KB            | No                     | Type B (29F016, 29F032, 29F033) |
 | MBC3 Multicart       | GB-4KV8S-01B       | 4 MB (2x 2 MB, 4x 1MB) | 128 KB (4x 32 KB) | Yes                    | Type B (29F032, 29F033)         |
 | MBC5 Multicart       | GB-4AV8S-01B       | 4 MB (2x 2 MB, 4x 1MB) | 128 KB (4x 32 KB) | Yes                    | Type B (29F032, 29F033)         |
-| MBC1 (Type A)        | GB-2DV4S-01B       | 2 MB                   | 32 KB             | No                     | Type A (M29F160)                |
-| MBC3 (Type A)        | GB-2KV4S-01B       | 2 MB                   | 32 KB             | No                     | Type A (M29F160)                |
-| MBC5 (Type A)        | GB-2AV8S-01B       | 2 MB                   | 128 KB            | No                     | Type A (M29F160)                |
-| MBC1 (Type A, FRAM)  | GB-2DF4S-01B       | 2 MB                   | 32 KB             | No                     | Type A (M29F160)                |
-| MBC3 (Type A, FRAM)  | GB-2KF4S-01B       | 2 MB                   | 32 KB             | No                     | Type A (M29F160)                |
-| MBC5 (Type A, FRAM)  | GB-2AF4S-01B       | 2 MB                   | 32 KB             | No                     | Type A (M29F160)                |
+| MBC1 (Type A)        | GB-2DV4S-01A       | 2 MB                   | 32 KB             | No                     | Type A (M29F160)                |
+| MBC3 (Type A)        | GB-2KV4S-01A       | 2 MB                   | 32 KB             | No                     | Type A (M29F160)                |
+| MBC5 (Type A)        | GB-2AV8S-01A       | 2 MB                   | 128 KB            | No                     | Type A (M29F160)                |
+| MBC1 (Type A, FRAM)  | GB-2DF4S-01A       | 2 MB                   | 32 KB             | No                     | Type A (M29F160)                |
+| MBC3 (Type A, FRAM)  | GB-2KF4S-01A       | 2 MB                   | 32 KB             | No                     | Type A (M29F160)                |
+| MBC5 (Type A, FRAM)  | GB-2AF4S-01A       | 2 MB                   | 32 KB             | No                     | Type A (M29F160)                |
 
 ## Naming Convention
 
