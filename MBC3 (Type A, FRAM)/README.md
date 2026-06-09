@@ -84,6 +84,10 @@ If your game does *not* use the RTC function with the crystal X1, then you need 
 
 ![image](https://github.com/MouseBiteLabs/Game-Boy-MBC3-Cartridge/assets/97127539/d46ea632-6318-4e5d-bf40-c4e9a7f52aa1)
 
+You must also bridge *all three* of the rev pads. You can use a wire to make this easier.
+
+<img width="415" height="280" alt="image" src="https://github.com/user-attachments/assets/01b38dbf-8131-4211-97f6-531c66ecce39" />
+
 ## Test Points and Final Checkout
 
 On the back of the board are five test points. Here's where they are connected:
