@@ -54,12 +54,6 @@ You can use the zipped folder at any board fabricator you like. You may also buy
 
 <a href="https://oshpark.com/shared_projects/IAKoKwEI">The board is also listed on OSH Park as well.</a> **Be sure to get them in 0.8mm thickness if you order from here.**
 
-### Purchase from My Website
-
-You can purchase this circuit board at my website, [https://mousebitelabs.store](https://mousebitelabs.store). Click the following image to be directed to the specific item listing:
-
-<a href="https://mousebitelabs.store/products/game-boy-mbc5-multicart-circuit-board"><img width="1070" height="182" alt="PCB from MouseBiteLabs" src="https://github.com/user-attachments/assets/14072b8c-4d47-434b-9c31-6d4ec74a28bc" /></a>
-
 ### Purchase from Etsy
 
 I also offer the board on Etsy, if you would rather purchase through there - click the banner to be redirected.
